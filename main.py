@@ -1,3 +1,12 @@
+#########################################################
+#! /usr/bin/python3                                     #
+# -=- coding: utf-8 -=-                                 #
+#                                                       #
+# python 3.3.2+ Python Youtube Downloader Script v.1    #
+# by cybsam                                             #
+# only for legal purpose                                #
+# https://github.com/cybsam/pytube-yt-downloader.git    #
+#########################################################
 from pytube import YouTube
 
 def Download(link):
