@@ -17,10 +17,10 @@ $ git clone https://github.com/cybsam/pytube-yt-downloader.git
 ```
 Go to your git clone or download folder then
 ```bash
-python3 main.py
+$ python3 main.py 
 ```
 ```bash
-Enter the YouTube video URL:
+~ Enter the YouTube video URL:
 ```
 
 Now Enjoy...
